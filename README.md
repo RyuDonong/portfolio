@@ -31,3 +31,11 @@
 > <img width="500" alt="MOOSA" src="https://github.com/RyuDonong/portfolio/assets/168408760/0be6ed6a-cdb3-41aa-a530-39dc4507a02a">
 
 > https://github.com/RyuDonong/MOOSAprivate
+
+> 2. ReMerge
+
+> 제작기간 (2024.06.17 ~ 2024.07.17)
+
+> <img width="500" alt="스크린샷 2024-07-06 오후 4 19 46" src="https://github.com/RyuDonong/portfolio/assets/168408760/c7556d09-070d-41b9-bb08-5aba7294be12">
+
+> 업데이트 예정 
