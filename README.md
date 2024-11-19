@@ -23,6 +23,7 @@
   Tool	: Eclipse, Visual Studio Code  
   
 # Projects
+해당 프로젝트 하단 링크를 클릭하시면 상세 Repository로 이동해 코드를 보실수 있습니다.
 
 > 1. MOOSA
 
